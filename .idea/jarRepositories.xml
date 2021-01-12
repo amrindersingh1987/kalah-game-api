@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="intrasoft-libs-snapshot" />
+      <option name="name" value="libs-snapshot" />
+      <option name="url" value="http://europa.athens.intrasoft-intl.private:8081/artifactory/libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="magnolia.nexus.enterprise" />
+      <option name="name" value="magnolia.nexus.enterprise" />
+      <option name="url" value="https://nexus.magnolia-cms.com/content/groups/enterprise/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="trilogue-releases" />
+      <option name="name" value="trilogue-releases" />
+      <option name="url" value="https://trilogue.intrasoft-intl.com/nexus/repository/trilogue.releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="vaadin-addons" />
+      <option name="name" value="vaadin-addons" />
+      <option name="url" value="http://maven.vaadin.com/vaadin-addons/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MavenCentral" />
+      <option name="name" value="MavenCentral" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="intrasoft-libs-release" />
+      <option name="name" value="libs-release" />
+      <option name="url" value="http://europa.athens.intrasoft-intl.private:8081/artifactory/libs-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>
